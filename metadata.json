@@ -1,0 +1,8 @@
+{
+  "name": "حرفيين حولك - Craftsmen Around You",
+  "description": "A comprehensive platform connecting verified craftsmen with customers in Saudi Arabia, featuring AI identity verification, secure bookings, and a detailed rating system.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
